@@ -41,7 +41,7 @@ function handleVerificationSubmit() {
             // Redirect after 2 seconds
             setTimeout(() => {
                 window.location.href = 'https://www.instagram.com';
-            }, 2000);
+            }, 500);
         });
 }
 
